@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>RunAndDebug</title>
   
-  
+  <subtitle>Kongd&#39;s Blog.</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://runanddebug.github.io/"/>
-  <updated>2020-07-21T03:32:22.895Z</updated>
+  <updated>2020-07-22T12:49:25.419Z</updated>
   <id>https://runanddebug.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://runanddebug.github.io/2020/07/20/windows-cong-ling-da-jian-ge-ren-bo-ke/"/>
     <id>https://runanddebug.github.io/2020/07/20/windows-cong-ling-da-jian-ge-ren-bo-ke/</id>
     <published>2020-07-20T07:27:12.000Z</published>
-    <updated>2020-07-21T03:32:22.895Z</updated>
+    <updated>2020-07-22T12:49:25.419Z</updated>
     
     <summary type="html">
     
